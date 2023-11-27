@@ -587,4 +587,3 @@ struct tegra_panel __initdata dsi_j_720p_5 = {
 	.register_bl_dev = dsi_j_720p_5_register_bl_dev,
 	.init_cmu_data = dsi_j_720p_5_cmu_init,
 };
-EXPORT_SYMBOL(dsi_j_720p_5);

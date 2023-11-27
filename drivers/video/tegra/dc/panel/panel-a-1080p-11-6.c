@@ -450,5 +450,4 @@ struct tegra_panel __initdata dsi_a_1080p_11_6 = {
 	.register_i2c_bridge = dsi_a_1080p_11_6_i2c_bridge_register,
 	.set_disp_device = dsi_a_1080p_11_6_set_disp_device,
 };
-EXPORT_SYMBOL(dsi_a_1080p_11_6);
 

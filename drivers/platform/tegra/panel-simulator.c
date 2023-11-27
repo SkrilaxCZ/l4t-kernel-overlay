@@ -601,5 +601,3 @@ struct tegra_panel __initdata panel_sim = {
 #endif
 	.set_disp_device = panel_sim_set_disp_device,
 };
-EXPORT_SYMBOL(panel_sim);
-

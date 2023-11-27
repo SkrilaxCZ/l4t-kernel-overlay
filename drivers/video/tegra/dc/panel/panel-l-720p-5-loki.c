@@ -666,4 +666,3 @@ struct tegra_panel __initdata dsi_l_720p_5_loki = {
 	.register_bl_dev = dsi_l_720p_5_loki_register_bl_dev,
 	.init_cmu_data = dsi_l_720p_5_loki_cmu_init,
 };
-EXPORT_SYMBOL(dsi_l_720p_5_loki);
